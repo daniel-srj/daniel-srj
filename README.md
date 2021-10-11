@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Daniel.
 
-- 🌱 Estou aprendendo javascript.
+- Olá! Sou o Daniel e estou desenvolvendo projetos de front-end.
 - 👯 Front-end developer.
 
 <div>
