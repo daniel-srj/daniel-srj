@@ -3,7 +3,11 @@
 - Olá! Sou o Daniel e estou desenvolvendo projetos de front-end.
 - 👯 Front-end developer.
 
-<div>
-  <img height="167em" width="45%" src="https://github-readme-stats.vercel.app/api?username=daniel-srj&theme=github_dark&show_icons=true&hide=issues">
-  <img height="165em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-srj&layout=compact&theme=github_dark">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Del-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Del-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Del-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Del-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Del-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
